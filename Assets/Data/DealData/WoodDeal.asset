@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: WoodDeal
   m_EditorClassIdentifier: 
   _inAppId: 0
-  _discountAmount: 83
+  _discountAmount: 80
+  _price: 3.99
   _resourcesToSell:
   - data: {fileID: 11400000, guid: f6919015133f441a0bd7424e40241c6f, type: 2}
     amount: 40

@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: StoneDeal
   m_EditorClassIdentifier: 
   _inAppId: 1
-  _discountAmount: 83
+  _discountAmount: 80
+  _price: 3.99
   _resourcesToSell:
   - data: {fileID: 11400000, guid: f5d995fd304a949e396bbb52fc2542e1, type: 2}
     amount: 40
